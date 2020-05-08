@@ -1,10 +1,12 @@
-# ResistorGuide_App
+# ResistorGuide App
 ![ResistorGuide_Banner](Screenshots/ResistorGuide-feature-graphic.png)
 
  ### An app that calculates resistor combinations and color codes.
  
  
  This app was created using the Flutter Framework in the Dart language
+ 
+ Download it on the Google Play Store: https://play.google.com/store/apps/details?id=moustafaeid.resistorguide
  
  <table>
   <tr>
