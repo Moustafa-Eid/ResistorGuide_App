@@ -1,2 +1,2 @@
 # ResistorGuide_App
- An app i made that calculates resistance combinatiosn and color codes
+ An app that calculates resistor combinations and color codes.
