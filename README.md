@@ -18,6 +18,11 @@
   </tr>
  </table>
 
+# Demo:
+
+<p align="center">
+  <img align="center" src="Screenshots/Demo.gif" width="300">
+</p>
 
 # Functionality:
 
