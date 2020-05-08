@@ -1,5 +1,5 @@
 # ResistorGuide_App
-![ResistorGuide_Banner](ResistorGuide-feature-graphic.png)
+![ResistorGuide_Banner](Screenshots/ResistorGuide-feature-graphic.png)
 
  An app that calculates resistor combinations and color codes.
  
