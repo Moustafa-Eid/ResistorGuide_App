@@ -31,6 +31,8 @@ Fortunately the first function of my app is a Color Code to Resistance Calculato
 Enter the number of bands and color of each band, The app will calculate the resistance and tolerance of the resistor and output it.
 
 <p align="center">
-  <img align="center" src="Screenshots/Screenshot_20200501-195111.jpg" width="300">
+  <img align="center" src="Screenshots/Screenshot_20200501-195111.jpg" width="300"> <img align="center" src="Screenshots/ColortoResGif.gif" width="300">
 </p>
+
+
 
