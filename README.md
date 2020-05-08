@@ -34,5 +34,30 @@ Enter the number of bands and color of each band, The app will calculate the res
   <img align="center" src="Screenshots/Screenshot_20200501-195111.jpg" width="300"> <img align="center" src="Screenshots/ColortoResGif.gif" width="300">
 </p>
 
+This was used as a reference for the calculations:
+
+<p align="center">
+  <img src="https://www.hobby-hour.com/electronics/resistorcolorcode.gif">
+</p>
+
+### Resistor Combinations and Color Code Calculator
 
 
+One of the most important aspects when designing circuits is picking the right resistance for your needs. Unfortunately, most of the time after doing your calculations, you find that the resistance you need is not a standard value.
+
+This app attempts to help with this issue by allowing the user to input any resistance they desire and tolerance details, the app will then calculate all the single, series and parallel combinations of 2 resistors in the standard set that will equal to the desired resistance (Within 2.5% Error).
+
+The app displays these combinations in a list that when tapped, will show the color codes of both resistors.
+
+<p align="center">
+  <img align="center" src="Screenshots/Screenshot_20200501-195141.jpg" width="300"> <img align="center" src="Screenshots/Screenshot_20200501-195205.jpg" width="300"> 
+</p>
+
+<p align="center">
+ <img align="center" src="Screenshots/Screenshot_20200501-195218.jpg" width="300"> <img align="center" src="Screenshots/RestoColorGif.gif" width="300">
+</p>
+
+
+The method of calculation for this function of the app was inspired by Claudio Girardi's Resistor Calculator found here:
+
+https://www.qsl.net/in3otd/parallr.html
