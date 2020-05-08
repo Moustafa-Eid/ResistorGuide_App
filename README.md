@@ -6,7 +6,10 @@
  
  This app was created using the Flutter Framework in the Dart language
  
- Download it on the Google Play Store: https://play.google.com/store/apps/details?id=moustafaeid.resistorguide
+ Download it on the Google Play Store: 
+ 
+ [<img src="Screenshots/google-play-badge.png" width="300">](https://play.google.com/store/apps/details?id=moustafaeid.resistorguide)
+
  
  <table>
   <tr>
