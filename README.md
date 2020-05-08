@@ -8,7 +8,7 @@
  
  Download it on the Google Play Store: 
  
- [![Google_App](Screenshots/google-play-badge.png)](https://play.google.com/store/apps/details?id=moustafaeid.resistorguide)
+ [<img src="Screenshots/Screenshots/google-play-badge.png" width="100">](https://play.google.com/store/apps/details?id=moustafaeid.resistorguide)
 
  
  <table>
