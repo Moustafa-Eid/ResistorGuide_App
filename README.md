@@ -8,7 +8,7 @@
  
  Download it on the Google Play Store: https://play.google.com/store/apps/details?id=moustafaeid.resistorguide
  
- ![Google_App](Screenshots/google-play-badge)
+ ![Google_App](Screenshots/google-play-badge.png)
 
  
  <table>
