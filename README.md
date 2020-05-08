@@ -8,6 +8,9 @@
  
  Download it on the Google Play Store: https://play.google.com/store/apps/details?id=moustafaeid.resistorguide
  
+ ![Google_App](Screenshots/google-play-badge)
+
+ 
  <table>
   <tr>
     <td>  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="100"></td>
