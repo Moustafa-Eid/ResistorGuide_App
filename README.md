@@ -66,3 +66,19 @@ The app displays these combinations in a list that when tapped, will show the co
 The method of calculation for this function of the app was inspired by Claudio Girardi's Resistor Calculator found here:
 
 https://www.qsl.net/in3otd/parallr.html
+
+# Usage:
+
+To edit and run this app, you will need a flutter compatible IDE.
+
+
+First create a flutter project
+
+
+Then replace these files with the ones in this github repo
+* /lib
+* /images
+* /Sets
+* /icons
+
+Then save and run and that is all you need to edit this code
