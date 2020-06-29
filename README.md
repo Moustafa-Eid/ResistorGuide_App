@@ -80,5 +80,7 @@ Then replace these files with the ones in this github repo
 * /images
 * /Sets
 * /icons
+* pubspec.yaml
+* pubsec.lock
 
 Then save and run and that is all you need to edit this code
