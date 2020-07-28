@@ -50,7 +50,7 @@ This was used as a reference for the calculations:
 
 One of the most important aspects when designing circuits is picking the right resistance for your needs. Unfortunately, most of the time after doing your calculations, you find that the resistance you need is not a standard value.
 
-This app attempts to help with this issue by allowing the user to input any resistance they desire and tolerance details, the app will then calculate all the single, series and parallel combinations of 2 resistors in the standard set that will equal to the desired resistance (Within 2.5% Error).
+This app attempts to solve this issue by allowing the user to input any resistance they desire and tolerance details, the app will then calculate all the single, series and parallel combinations of 2 resistors in the standard set that will equal to the desired resistance (Within 2.5% Error).
 
 The app displays these combinations in a list that when tapped, will show the color codes of both resistors.
 
