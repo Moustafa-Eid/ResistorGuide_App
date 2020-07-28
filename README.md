@@ -83,4 +83,4 @@ Then replace these files with the ones in this github repo
 * pubspec.yaml
 * pubsec.lock
 
-Then save and run and that is all you need to edit this code
+Then save and run and that is all you need to run this code
